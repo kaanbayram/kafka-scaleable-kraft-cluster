@@ -4,7 +4,7 @@ __CruiseControlPartitionMetricSamples 14 0
 __CruiseControlBrokerMetricSamples 8 0
 __CruiseControlPartitionMetricSamples 15 0
 scaling-test-topic 4 0
-__CruiseControlBrokerMetricSamples 29 30
+__CruiseControlBrokerMetricSamples 29 36
 __CruiseControlPartitionMetricSamples 0 0
 __CruiseControlPartitionMetricSamples 17 0
 __CruiseControlPartitionMetricSamples 25 0
