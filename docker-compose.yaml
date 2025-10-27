@@ -1,0 +1,108 @@
+services:
+  broker1:
+    image: apache/kafka:3.7.0
+    container_name: broker1
+    hostname: broker1
+    ports:
+      - "9092:9092"
+    volumes:
+      - ./data/broker1:/var/lib/kafka/data
+      - ./configs/broker1.properties:/opt/kafka/config/kraft/server.properties
+      - ./kafka-libs/cruise-control-metrics-reporter-2.5.144-SNAPSHOT.jar:/opt/kafka/libs/cruise-control-metrics-reporter-2.5.144-SNAPSHOT.jar
+    command: >
+      bash -c "if [ ! -f /var/lib/kafka/data/meta.properties ]; then /opt/kafka/bin/kafka-storage.sh format --ignore-formatted --cluster-id 6VKsvE_XSzC1zMWfZod8sg --config /opt/kafka/config/kraft/server.properties; fi && /opt/kafka/bin/kafka-server-start.sh /opt/kafka/config/kraft/server.properties"
+
+  broker2:
+    image: apache/kafka:3.7.0
+    container_name: broker2
+    hostname: broker2
+    ports:
+      - "9093:9092"
+    volumes:
+      - ./data/broker2:/var/lib/kafka/data
+      - ./configs/broker2.properties:/opt/kafka/config/kraft/server.properties
+      - ./kafka-libs/cruise-control-metrics-reporter-2.5.144-SNAPSHOT.jar:/opt/kafka/libs/cruise-control-metrics-reporter-2.5.144-SNAPSHOT.jar
+    command: >
+      bash -c "if [ ! -f /var/lib/kafka/data/meta.properties ]; then /opt/kafka/bin/kafka-storage.sh format --ignore-formatted --cluster-id 6VKsvE_XSzC1zMWfZod8sg --config /opt/kafka/config/kraft/server.properties; fi && /opt/kafka/bin/kafka-server-start.sh /opt/kafka/config/kraft/server.properties"
+
+  broker3:
+    image: apache/kafka:3.7.0
+    container_name: broker3
+    hostname: broker3
+    ports:
+      - "9094:9092"
+    volumes:
+      - ./data/broker3:/var/lib/kafka/data
+      - ./configs/broker3.properties:/opt/kafka/config/kraft/server.properties
+      - ./kafka-libs/cruise-control-metrics-reporter-2.5.144-SNAPSHOT.jar:/opt/kafka/libs/cruise-control-metrics-reporter-2.5.144-SNAPSHOT.jar
+    command: >
+      bash -c "if [ ! -f /var/lib/kafka/data/meta.properties ]; then /opt/kafka/bin/kafka-storage.sh format --ignore-formatted --cluster-id 6VKsvE_XSzC1zMWfZod8sg --config /opt/kafka/config/kraft/server.properties; fi && /opt/kafka/bin/kafka-server-start.sh /opt/kafka/config/kraft/server.properties"
+
+  broker4:
+    image: apache/kafka:3.7.0
+    container_name: broker4
+    hostname: broker4
+    ports:
+      - "9095:9092"
+    volumes:
+      - ./data/broker4:/var/lib/kafka/data
+      - ./configs/broker4.properties:/opt/kafka/config/kraft/server.properties
+      - ./kafka-libs/cruise-control-metrics-reporter-2.5.144-SNAPSHOT.jar:/opt/kafka/libs/cruise-control-metrics-reporter-2.5.144-SNAPSHOT.jar
+    command: >
+      bash -c "if [ ! -f /var/lib/kafka/data/meta.properties ]; then /opt/kafka/bin/kafka-storage.sh format --ignore-formatted --cluster-id 6VKsvE_XSzC1zMWfZod8sg --config /opt/kafka/config/kraft/server.properties; fi && /opt/kafka/bin/kafka-server-start.sh /opt/kafka/config/kraft/server.properties"
+
+  broker5:
+    image: apache/kafka:3.7.0
+    container_name: broker5
+    hostname: broker5
+    ports:
+      - "9096:9092"
+    volumes:
+      - ./data/broker5:/var/lib/kafka/data
+      - ./configs/broker5.properties:/opt/kafka/config/kraft/server.properties
+      - ./kafka-libs/cruise-control-metrics-reporter-2.5.144-SNAPSHOT.jar:/opt/kafka/libs/cruise-control-metrics-reporter-2.5.144-SNAPSHOT.jar
+    command: >
+      bash -c "if [ ! -f /var/lib/kafka/data/meta.properties ]; then /opt/kafka/bin/kafka-storage.sh format --ignore-formatted --cluster-id 6VKsvE_XSzC1zMWfZod8sg --config /opt/kafka/config/kraft/server.properties; fi && /opt/kafka/bin/kafka-server-start.sh /opt/kafka/config/kraft/server.properties"
+  broker6:
+    image: apache/kafka:3.7.0
+    container_name: broker6
+    hostname: broker6
+    ports:
+      - "9097:9092"
+    volumes:
+      - ./data/broker6:/var/lib/kafka/data
+      - ./configs/broker6.properties:/opt/kafka/config/kraft/server.properties
+      - ./kafka-libs/cruise-control-metrics-reporter-2.5.144-SNAPSHOT.jar:/opt/kafka/libs/cruise-control-metrics-reporter-2.5.144-SNAPSHOT.jar
+    command: >
+      bash -c "if [ ! -f /var/lib/kafka/data/meta.properties ]; then /opt/kafka/bin/kafka-storage.sh format --ignore-formatted --cluster-id 6VKsvE_XSzC1zMWfZod8sg --config /opt/kafka/config/kraft/server.properties; fi && /opt/kafka/bin/kafka-server-start.sh /opt/kafka/config/kraft/server.properties"
+
+  kafka-console:
+    image: redpandadata/console:v2.2.4
+    container_name: kafka-console
+    ports:
+      - "3030:8080"
+    volumes:
+      - ./console-config.yaml:/etc/console-config.yaml
+    command: ["--config.filepath=/etc/console-config.yaml"]
+
+  cruise-control:
+    image: my-cruise-control
+    container_name: cruise-control
+    hostname: cruise-control
+    ports:
+      - "9090:9090"   # Cruise Control UI / API erişimi
+    volumes:
+      - ./configs/cruisecontrol.properties:/opt/cruise-control/config/cruisecontrol.properties
+    environment:
+      - KAFKA_BROKERS=broker1:9092,broker2:9092,broker3:9092,broker4:9092,broker5:9092,broker6:9092
+    depends_on:
+      - broker1
+      - broker2
+      - broker3
+      - broker4
+      - broker5
+      - broker6
+
+
+
+

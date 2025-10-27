@@ -5,7 +5,7 @@ scaling-test-topic 4 0
 __CruiseControlPartitionMetricSamples 13 0
 scaling-test-topic 7 0
 __CruiseControlPartitionMetricSamples 7 0
-__CruiseControlBrokerMetricSamples 29 8
+__CruiseControlBrokerMetricSamples 29 30
 __CruiseControlPartitionMetricSamples 27 0
 __CruiseControlBrokerMetricSamples 25 0
 __CruiseControlPartitionMetricSamples 19 0
@@ -21,7 +21,7 @@ __CruiseControlBrokerMetricSamples 21 0
 __CruiseControlBrokerMetricSamples 1 0
 __CruiseControlPartitionMetricSamples 22 0
 scaling-test-topic 6 0
-__CruiseControlPartitionMetricSamples 2 146
+__CruiseControlPartitionMetricSamples 2 401
 scaling-test-topic 3 0
 __CruiseControlBrokerMetricSamples 11 0
 __CruiseControlPartitionMetricSamples 9 0
@@ -34,7 +34,7 @@ __CruiseControlPartitionMetricSamples 29 0
 scaling-test-topic 2 0
 __CruiseControlBrokerMetricSamples 0 0
 __CruiseControlBrokerMetricSamples 18 0
-__CruiseControlMetrics 0 1145
+__CruiseControlMetrics 0 3010
 __CruiseControlBrokerMetricSamples 14 0
 __CruiseControlPartitionMetricSamples 28 0
 __CruiseControlBrokerMetricSamples 26 0

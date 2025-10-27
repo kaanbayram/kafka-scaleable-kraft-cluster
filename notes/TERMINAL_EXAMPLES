@@ -1,0 +1,457 @@
+Last login: Mon Aug 25 10:09:50 on ttys000
+kaan.bayram@MacBook-Pro ~ % ls
+Applications
+DataGripProjects
+Desktop
+Documents
+Downloads
+Google Drive
+IdeaSnapshots
+Library
+Movies
+Music
+Pictures
+Postman
+Public
+UPDATE_restaurant_serestaurant_oid_in___.csv
+install.sh
+java_error_in_datagrip_37127.log
+java_error_in_datagrip_740.log
+java_error_in_idea.hprof
+java_error_in_idea_15611.log
+jbr_err_pid15611.log
+marketplacezone_public_food_shop_hexagons.csv
+kaan.bayram@MacBook-Pro ~ % cd Desktop 
+kaan.bayram@MacBook-Pro Desktop % ls
+Archive 2.zip
+Archive.zip
+Archive_2.zip
+BACKUP
+CONNECTIONS_ETC.y
+CONSUMER_ENVS
+DIFF
+DROP_TABLE_ALL.js
+EDIRNE_DIFF
+FOOD.zip
+Getir-ilkadimlar.pdf
+INDEX_LIST_QUERY
+KAFKA_CLUSTER
+LATEST_LISTING_EDIRNE
+LISTING
+LISTING-CONNECTOR.postman_collection.json
+LOCALS.zip
+MAINTENANCE_SQL_QUERIES.sql.s
+NOT_LISTING_EDIRNE
+NO_DEL_FEE.csv
+OLD_LISTING
+PROD_ENVS_consumer.mak
+QUERIES
+Result_104.csv
+Result_211.csv
+Result_213.csv
+Result_227.csv
+SCHEDULED_REST_LIST.json
+Screen Recording 2025-05-30 at 10.21.23.mov
+Screen Recording 2025-06-06 at 22.50.11.mov
+Screen Recording 2025-06-07 at 00.58.19.mov
+Screen Recording 2025-08-07 at 13.37.15.mov
+Screenshot 2025-03-24 at 16.39.53.png
+Screenshot 2025-03-25 at 11.07.15.png
+Screenshot 2025-03-25 at 11.09.24.png
+Screenshot 2025-03-25 at 13.51.23.png
+Screenshot 2025-03-25 at 13.52.35.png
+Screenshot 2025-03-26 at 09.18.25.png
+Screenshot 2025-03-27 at 18.21.17.png
+Screenshot 2025-03-30 at 02.11.08.png
+Screenshot 2025-03-30 at 02.11.15.png
+Screenshot 2025-04-02 at 09.04.56.png
+Screenshot 2025-04-02 at 09.05.18.png
+Screenshot 2025-04-08 at 16.18.43.png
+Screenshot 2025-04-10 at 11.36.49.png
+Screenshot 2025-04-17 at 18.17.33.png
+Screenshot 2025-04-17 at 18.18.31.png
+Screenshot 2025-04-18 at 08.58.56.png
+Screenshot 2025-04-18 at 16.25.53.png
+Screenshot 2025-04-18 at 16.29.57.png
+Screenshot 2025-04-28 at 15.56.11.png
+Screenshot 2025-04-28 at 17.44.13.png
+Screenshot 2025-05-02 at 13.32.07.png
+Screenshot 2025-05-02 at 13.42.49.png
+Screenshot 2025-05-05 at 14.03.36.png
+Screenshot 2025-05-05 at 14.50.53.png
+Screenshot 2025-05-05 at 14.51.57.png
+Screenshot 2025-05-05 at 14.52.13.png
+Screenshot 2025-05-05 at 15.21.17.png
+Screenshot 2025-05-05 at 16.35.31.png
+Screenshot 2025-05-08 at 14.29.18.png
+Screenshot 2025-05-08 at 18.10.43.png
+Screenshot 2025-05-12 at 10.07.33.png
+Screenshot 2025-05-12 at 13.17.52.png
+Screenshot 2025-05-16 at 15.03.54.png
+Screenshot 2025-05-20 at 03.53.59.png
+Screenshot 2025-05-20 at 15.27.12.png
+Screenshot 2025-05-21 at 22.05.34.png
+Screenshot 2025-05-23 at 01.49.53.png
+Screenshot 2025-05-23 at 01.49.59.png
+Screenshot 2025-05-23 at 15.10.51.png
+Screenshot 2025-05-23 at 15.20.10.png
+Screenshot 2025-05-23 at 15.43.35.png
+Screenshot 2025-05-23 at 15.44.39.png
+Screenshot 2025-05-23 at 15.48.15.png
+Screenshot 2025-05-23 at 19.50.45.png
+Screenshot 2025-05-25 at 16.18.10.png
+Screenshot 2025-05-25 at 17.30.19.png
+Screenshot 2025-05-26 at 11.20.02.png
+Screenshot 2025-05-28 at 16.56.26.png
+Screenshot 2025-05-29 at 01.14.02.png
+Screenshot 2025-05-30 at 10.20.16.png
+Screenshot 2025-06-02 at 08.37.34.png
+Screenshot 2025-06-03 at 14.51.46.png
+Screenshot 2025-06-13 at 17.32.32.png
+Screenshot 2025-06-15 at 00.08.16.png
+Screenshot 2025-06-20 at 17.21.52.png
+Screenshot 2025-06-21 at 15.28.40.png
+Screenshot 2025-06-24 at 17.51.37.png
+Screenshot 2025-06-27 at 09.53.53.png
+Screenshot 2025-06-27 at 15.58.23.png
+Screenshot 2025-07-02 at 16.40.18.png
+Screenshot 2025-07-02 at 16.41.14.png
+Screenshot 2025-07-02 at 16.42.10.png
+Screenshot 2025-07-07 at 14.28.31.png
+Screenshot 2025-07-10 at 10.43.22.png
+Screenshot 2025-07-16 at 10.23.13.png
+Screenshot 2025-07-16 at 18.43.46.png
+Screenshot 2025-07-16 at 19.14.44.png
+Screenshot 2025-07-21 at 16.35.51.png
+Screenshot 2025-07-21 at 16.59.05.png
+Screenshot 2025-07-25 at 00.35.35.png
+Screenshot 2025-07-30 at 14.37.42.png
+Screenshot 2025-08-01 at 09.52.25.png
+Screenshot 2025-08-01 at 16.08.46.png
+Screenshot 2025-08-06 at 09.52.10.png
+Screenshot 2025-08-06 at 09.52.26.png
+Screenshot 2025-08-06 at 13.30.24.png
+Screenshot 2025-08-06 at 13.30.35.png
+Screenshot 2025-08-06 at 13.30.45.png
+Screenshot 2025-08-06 at 14.19.59.png
+Screenshot 2025-08-11 at 15.58.55.png
+Screenshot 2025-08-11 at 16.01.35.png
+Screenshot 2025-08-11 at 16.50.21.png
+Screenshot 2025-08-13 at 13.32.23.png
+Screenshot 2025-08-13 at 18.01.18.png
+Screenshot 2025-08-14 at 14.02.03.png
+Screenshot 2025-08-14 at 14.02.18.png
+Screenshot 2025-08-14 at 14.02.50.png
+Screenshot 2025-08-14 at 14.03.06.png
+Screenshot 2025-08-14 at 14.09.13.png
+Screenshot 2025-08-14 at 14.35.52.png
+Screenshot 2025-08-14 at 14.36.15.png
+Screenshot 2025-08-14 at 15.15.04.png
+Screenshot 2025-08-14 at 19.19.24.png
+Screenshot 2025-08-15 at 17.03.24.png
+Screenshot 2025-08-18 at 09.44.44.png
+Screenshot 2025-08-18 at 13.24.03.png
+Screenshot 2025-08-22 at 13.51.29.png
+Screenshot 2025-08-22 at 14.34.05.png
+Screenshot 2025-08-22 at 14.34.16.png
+Screenshot 2025-08-22 at 14.34.31.png
+Screenshot 2025-08-22 at 14.34.52.png
+Screenshot 2025-08-22 at 14.36.20.png
+Screenshot 2025-08-22 at 14.40.54.png
+Screenshot 2025-08-22 at 14.51.30.png
+Screenshot 2025-08-22 at 14.51.48.png
+Screenshot 2025-08-22 at 15.11.21.png
+Screenshot 2025-08-22 at 15.20.41.png
+Screenshot 2025-08-22 at 15.33.52.png
+Screenshot 2025-08-22 at 16.17.58.png
+Screenshot 2025-08-22 at 16.19.40.png
+Screenshot 2025-08-22 at 16.20.36.png
+Screenshot 2025-08-22 at 16.24.59.png
+Screenshot 2025-08-22 at 17.30.15.png
+Screenshot 2025-08-25 at 10.48.41.png
+Screenshot 2025-08-25 at 10.49.05.png
+Screenshot 2025-08-25 at 14.43.07.png
+Screenshot 2025-08-25 at 16.47.58.png
+Screenshot 2025-08-27 at 17.44.27.png
+Screenshot 2025-08-28 at 13.24.42.png
+Screenshot 2025-09-10 at 10.24.26.png
+Screenshot 2025-09-10 at 14.52.07.png
+Screenshot 2025-09-11 at 14.28.10.png
+Screenshot 2025-09-12 at 11.09.03.png
+Screenshot 2025-09-12 at 11.10.37.png
+Screenshot 2025-09-15 at 13.22.45.png
+Screenshot 2025-09-15 at 13.27.15.png
+Screenshot 2025-09-15 at 14.05.08.png
+Screenshot 2025-09-15 at 14.17.19.png
+Screenshot 2025-09-15 at 14.17.47.png
+Screenshot 2025-09-15 at 14.18.48.png
+Screenshot 2025-09-15 at 14.20.10.png
+Screenshot 2025-09-17 at 13.29.09.png
+Screenshot 2025-09-17 at 13.29.14.png
+TOPIC_ISSUE
+array_agg_id__ANYARRAY.csv
+compare.json
+compass-connections.json
+dashboard-response-fix.json
+db_schema.dbml
+difference.json
+error_new.json
+eventexample.json
+food-restaurant-dev.restaurants.json
+food-restaurant.ggconfigs.csv
+formatted.csv
+formatted.json
+formatted_2.csv
+formatted_2.json
+getir_new.json
+getir_old.json
+json_original_rest.json
+listing-consumder-env-varibale-dev
+listing_db.sql
+listing_new_only_plain.json
+local-consumer-envs
+local-env-variables
+local_data.json
+marketplace-demand-listing-consumer-flowcharts.drawio
+marketplacelisting_pg_catalog_pg_indexes.csv
+marketplacelisting_pg_catalog_pg_indexes_2.csv
+marketplacelisting_pg_catalog_pg_indexes_3.csv
+marketplacelisting_pg_catalog_pg_indexes_4.csv
+marketplacelisting_pg_catalog_pg_indexes_5.csv
+marketplacelisting_pg_catalog_pg_indexes_6.csv
+marketplacelisting_pg_config_neighborhood_will_removed.csv
+marketplacelisting_pggoverride_restaurant.csv
+marketplacelisting_pic_hexagon_restaurant_2.csv
+marketplacelisting_public_restaurant.csv
+marketplacelistingdeic_hexagon_restaurant.csv
+marketplacelistingdev_public_city.csv
+marketplacezone_public_food_shop_hexagons.csv
+mismatch.json
+mockdata.json
+new_dashboard_response.json
+old_data_no_chain.json
+order_requests.json
+patch-deployment-demand-listing.yaml
+payload_event_promo.json
+query_mongo
+res_detail.json
+rest.json
+rest_migrate.csv
+restaurant_payment_check.json
+restdata.json
+restidlist.json
+server_data.json
+tag_data.json
+tags.json
+willmaprestlist.json
+zone.sql.rb
+kaan.bayram@MacBook-Pro Desktop % cd KAFKA_CLUSTER 
+kaan.bayram@MacBook-Pro KAFKA_CLUSTER % docker-compose up
+WARN[0000] /Users/kaan.bayram/Desktop/KAFKA_CLUSTER/docker-compose.yaml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion 
+[+] Running 16/16
+ ✔ broker2 Pulled                                                        494.5s 
+ ✔ broker4 Pulled                                                        494.5s 
+ ✔ broker3 Pulled                                                        494.5s 
+ ✔ broker1 Pulled                                                        494.5s 
+ ✔ broker5 Pulled                                                        494.5s 
+   ✔ c521ee2ffbbe Pull complete                                          169.9s 
+   ✔ 232609e413cf Pull complete                                          483.6s 
+   ✔ 3c8edee3acf4 Pull complete                                           12.3s 
+   ✔ 1b066317cab5 Pull complete                                           13.1s 
+   ✔ f079df7238cd Pull complete                                           11.6s 
+   ✔ 91298309decf Pull complete                                           58.0s 
+   ✔ d544a5523889 Pull complete                                          483.8s 
+   ✔ 07e65a27cad6 Pull complete                                           13.1s 
+   ✔ 2e25de4b1f38 Pull complete                                          485.4s 
+   ✔ 2c9b4e08d4f6 Pull complete                                           12.7s 
+   ✔ 5c568a8022b9 Pull complete                                          484.1s 
+[+] Running 6/6
+ ✔ Network kafka_cluster_default  Creat...                                 0.1s 
+ ✔ Container broker3              Created                                  0.2s 
+ ✔ Container broker4              Created                                  0.2s 
+ ✔ Container broker5              Created                                  0.2s 
+ ✔ Container broker1              Created                                  0.2s 
+ ✔ Container broker2              Created                                  0.2s 
+Attaching to broker1, broker2, broker3, broker4, broker5
+broker2  | ===> User
+broker4  | ===> User
+broker3  | ===> User
+broker2  | uid=1000(appuser) gid=1000(appuser) groups=1000(appuser)
+broker3  | uid=1000(appuser) gid=1000(appuser) groups=1000(appuser)
+broker4  | uid=1000(appuser) gid=1000(appuser) groups=1000(appuser)
+broker2  | ===> Configuring ...
+broker3  | ===> Configuring ...
+broker4  | ===> Configuring ...
+broker1  | ===> User
+broker3  | Running in KRaft mode...
+broker2  | Running in KRaft mode...
+broker1  | uid=1000(appuser) gid=1000(appuser) groups=1000(appuser)
+broker1  | ===> Configuring ...
+broker5  | ===> User
+broker4  | Running in KRaft mode...
+broker5  | uid=1000(appuser) gid=1000(appuser) groups=1000(appuser)
+broker5  | ===> Configuring ...
+broker5  | Running in KRaft mode...
+broker1  | Running in KRaft mode...
+broker4  | CLUSTER_ID is required.
+broker4  | Command [/usr/local/bin/dub ensure CLUSTER_ID] FAILED !
+broker3  | CLUSTER_ID is required.
+broker3  | Command [/usr/local/bin/dub ensure CLUSTER_ID] FAILED !
+broker5  | CLUSTER_ID is required.
+broker5  | Command [/usr/local/bin/dub ensure CLUSTER_ID] FAILED !
+broker1  | CLUSTER_ID is required.
+broker1  | Command [/usr/local/bin/dub ensure CLUSTER_ID] FAILED !
+broker2  | CLUSTER_ID is required.
+broker2  | Command [/usr/local/bin/dub ensure CLUSTER_ID] FAILED !
+broker3 exited with code 1
+broker5 exited with code 1
+broker4 exited with code 1
+broker1 exited with code 1
+broker2 exited with code 1
+kaan.bayram@MacBook-Pro KAFKA_CLUSTER % docker-compose up
+WARN[0000] /Users/kaan.bayram/Desktop/KAFKA_CLUSTER/docker-compose.yaml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion 
+[+] Running 5/5
+ ✔ Container broker3  Created                                              0.0s 
+ ✔ Container broker1  Created                                              0.0s 
+ ✔ Container broker4  Created                                              0.0s 
+ ✔ Container broker5  Created                                              0.0s 
+ ✔ Container broker2  Created                                              0.0s 
+Attaching to broker1, broker2, broker3, broker4, broker5
+broker4  | ===> User
+broker2  | ===> User
+broker3  | ===> User
+broker2  | uid=1000(appuser) gid=1000(appuser) groups=1000(appuser)
+broker2  | ===> Configuring ...
+broker4  | uid=1000(appuser) gid=1000(appuser) groups=1000(appuser)
+broker3  | uid=1000(appuser) gid=1000(appuser) groups=1000(appuser)
+broker4  | ===> Configuring ...
+broker3  | ===> Configuring ...
+broker4  | Running in KRaft mode...
+broker3  | Running in KRaft mode...
+broker2  | Running in KRaft mode...
+broker5  | ===> User
+broker5  | uid=1000(appuser) gid=1000(appuser) groups=1000(appuser)
+broker5  | ===> Configuring ...
+broker5  | Running in KRaft mode...
+broker1  | ===> User
+broker1  | uid=1000(appuser) gid=1000(appuser) groups=1000(appuser)
+broker1  | ===> Configuring ...
+broker1  | Running in KRaft mode...
+broker3  | CLUSTER_ID is required.
+broker3  | Command [/usr/local/bin/dub ensure CLUSTER_ID] FAILED !
+broker2  | CLUSTER_ID is required.
+broker4  | CLUSTER_ID is required.
+broker2  | Command [/usr/local/bin/dub ensure CLUSTER_ID] FAILED !
+broker4  | Command [/usr/local/bin/dub ensure CLUSTER_ID] FAILED !
+broker5  | CLUSTER_ID is required.
+broker5  | Command [/usr/local/bin/dub ensure CLUSTER_ID] FAILED !
+broker1  | CLUSTER_ID is required.
+broker1  | Command [/usr/local/bin/dub ensure CLUSTER_ID] FAILED !
+broker3 exited with code 1
+broker4 exited with code 1
+broker5 exited with code 1
+broker2 exited with code 1
+broker1 exited with code 1
+kaan.bayram@MacBook-Pro KAFKA_CLUSTER % docker run --rm confluentinc/cp-kafka:7.6.1 kafka-storage random-uuid
+
+6VKsvE_XSzC1zMWfZod8sg
+kaan.bayram@MacBook-Pro KAFKA_CLUSTER % docker exec -it broker1 bash
+
+[appuser@broker1 ~]$ kafka-metadata-quorum.sh --bootstrap-server broker1:9092 describe --status
+bash: kafka-metadata-quorum.sh: command not found
+[appuser@broker1 ~]$ kafka-metadata-quorum.sh --bootstrap-server broker1:9092 describe --status
+bash: kafka-metadata-quorum.sh: command not found
+[appuser@broker1 ~]$ %                                                                                                                                                                                              kaan.bayram@MacBook-Pro KAFKA_CLUSTER % docker exec -it broker1 bash
+
+broker1:/$ docker exec -it broker1 kafka-metadata-quorum.sh --bootstrap-server broker1:9092 describe --status
+bash: docker: command not found
+broker1:/$ ^C
+broker1:/$ ^C
+broker1:/$ ^C
+broker1:/$ ^C
+broker1:/$ ^C
+broker1:/$ ^C
+broker1:/$ ^C
+broker1:/$ ^C
+broker1:/$ exit
+exit
+kaan.bayram@MacBook-Pro KAFKA_CLUSTER % docker exec -it broker1 kafka-metadata-quorum.sh --bootstrap-server broker1:9092 describe --status
+
+OCI runtime exec failed: exec failed: unable to start container process: exec: "kafka-metadata-quorum.sh": executable file not found in $PATH: unknown
+kaan.bayram@MacBook-Pro KAFKA_CLUSTER % docker exec -it broker1 bash                                                                      
+
+broker1:/$ kafka-metadata-quorum.sh --bootstrap-server broker1:9092 describe --status
+bash: kafka-metadata-quorum.sh: command not found
+broker1:/$ cd /opt/kafka/bin
+broker1:/opt/kafka/bin$ ./kafka-metadata-quorum.sh --bootstrap-server broker1:9092 describe --status
+ClusterId:              6VKsvE_XSzC1zMWfZod8sg
+LeaderId:               3
+LeaderEpoch:            4
+HighWatermark:          572
+MaxFollowerLag:         0
+MaxFollowerLagTimeMs:   235
+CurrentVoters:          [1,2,3]
+CurrentObservers:       [4,5]
+broker1:/opt/kafka/bin$ ./kafka-topics.sh --bootstrap-server broker1:9092 --list
+
+broker1:/opt/kafka/bin$ ./kafka-topics.sh --bootstrap-server broker1:9092 --create --topic test-topic --partitions 3 --replication-factor 3
+Created topic test-topic.
+broker1:/opt/kafka/bin$ ./kafka-topics.sh --bootstrap-server broker1:9092 --list
+test-topic
+broker1:/opt/kafka/bin$ ./kafka-topics.sh --bootstrap-server broker1:9092 --describe --topic <TOPIC_ADI>
+bash: syntax error near unexpected token `newline'
+broker1:/opt/kafka/bin$ ./kafka-topics.sh --bootstrap-server broker1:9092 --describe --topic test-topic
+Topic: test-topic	TopicId: 9XDViMMDRYyzcuQ6zMFWtA	PartitionCount: 3	ReplicationFactor: 3	Configs: 
+	Topic: test-topic	Partition: 0	Leader: 3	Replicas: 3,4,5	Isr: 3,4,5
+	Topic: test-topic	Partition: 1	Leader: 4	Replicas: 4,5,1	Isr: 4,5,1
+	Topic: test-topic	Partition: 2	Leader: 5	Replicas: 5,1,2	Isr: 5,1,2
+broker1:/opt/kafka/bin$ ./kafka-topics.sh --bootstrap-server broker1:9092 --describe --topic test-topic
+Topic: test-topic	TopicId: 9XDViMMDRYyzcuQ6zMFWtA	PartitionCount: 3	ReplicationFactor: 3	Configs: 
+	Topic: test-topic	Partition: 0	Leader: 3	Replicas: 3,4,5	Isr: 3,4,5
+	Topic: test-topic	Partition: 1	Leader: 4	Replicas: 4,5,1	Isr: 4,5,1
+	Topic: test-topic	Partition: 2	Leader: 5	Replicas: 5,1,2	Isr: 5,1,2
+broker1:/opt/kafka/bin$ ./kafka-topics.sh --bootstrap-server broker1:9092 --list
+test-topic
+broker1:/opt/kafka/bin$ ./kafka-topics.sh --bootstrap-server broker1:9092 --list
+test-topic
+broker1:/opt/kafka/bin$ docker exec -it broker1 kafka-metadata-quorum.sh --bootstrap-server broker1:9092 describe --status
+bash: docker: command not found
+broker1:/opt/kafka/bin$ ./kafka-metadata-quorum.sh --bootstrap-server broker1:9092 describe --status
+ClusterId:              6VKsvE_XSzC1zMWfZod8sg
+LeaderId:               3
+LeaderEpoch:            4
+HighWatermark:          3788
+MaxFollowerLag:         0
+MaxFollowerLagTimeMs:   248
+CurrentVoters:          [1,2,3]
+CurrentObservers:       [4,5,6]
+broker1:/opt/kafka/bin$ docker exec -it broker1 kafka-metadata-quorum.sh --bootstrap-server broker1:9092 describe --status
+bash: docker: command not found
+broker1:/opt/kafka/bin$ ./kafka-topics.sh --bootstrap-server broker1:9092 --describe --topic test-topic
+Topic: test-topic	TopicId: 9XDViMMDRYyzcuQ6zMFWtA	PartitionCount: 3	ReplicationFactor: 3	Configs: 
+	Topic: test-topic	Partition: 0	Leader: 3	Replicas: 3,4,5	Isr: 3,4,5
+	Topic: test-topic	Partition: 1	Leader: 4	Replicas: 4,5,1	Isr: 4,5,1
+	Topic: test-topic	Partition: 2	Leader: 5	Replicas: 5,1,2	Isr: 5,1,2
+broker1:/opt/kafka/bin$ ./kafka-topics.sh --bootstrap-server broker1:9092 --describe --topic test-topic
+Topic: test-topic	TopicId: 9XDViMMDRYyzcuQ6zMFWtA	PartitionCount: 3	ReplicationFactor: 3	Configs: 
+	Topic: test-topic	Partition: 0	Leader: 3	Replicas: 3,4,5	Isr: 3,4,5
+	Topic: test-topic	Partition: 1	Leader: 4	Replicas: 4,5,1	Isr: 4,5,1
+	Topic: test-topic	Partition: 2	Leader: 5	Replicas: 5,1,2	Isr: 5,1,2
+broker1:/opt/kafka/bin$ %                                                                                                                                                                                           kaan.bayram@MacBook-Pro KAFKA_CLUSTER % docker exec -it broker1 bash
+
+broker1:/$ cd /opt/kafka/bin
+broker1:/opt/kafka/bin$ ./kafka-topics.sh --bootstrap-server broker1:9092 --describe --topic test-topic
+Topic: test-topic	TopicId: 9XDViMMDRYyzcuQ6zMFWtA	PartitionCount: 3	ReplicationFactor: 3	Configs: 
+	Topic: test-topic	Partition: 0	Leader: 4	Replicas: 3,4,5	Isr: 4,3,5
+	Topic: test-topic	Partition: 1	Leader: 4	Replicas: 4,5,1	Isr: 4,5,1
+	Topic: test-topic	Partition: 2	Leader: 1	Replicas: 5,1,2	Isr: 1,5,2
+broker1:/opt/kafka/bin$ ./kafka-metadata-quorum.sh --bootstrap-server broker1:9092 describe --status
+ClusterId:              6VKsvE_XSzC1zMWfZod8sg
+LeaderId:               3
+LeaderEpoch:            13
+HighWatermark:          24138
+MaxFollowerLag:         0
+MaxFollowerLagTimeMs:   13
+CurrentVoters:          [1,2,3]
+CurrentObservers:       [4,5,6]
+broker1:/opt/kafka/bin$ 
