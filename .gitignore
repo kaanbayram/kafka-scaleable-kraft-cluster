@@ -1,0 +1,20 @@
+# Kafka runtime data ve loglar
+data/
+
+# Kafka log dosyaları
+*.log
+*.index
+*.timeindex
+*.snapshot
+*.checkpoint
+
+# IDE ve sistem dosyaları
+.DS_Store
+.idea/
+*.swp
+*.swo
+*~
+
+# Docker volumes
+.lock
+
