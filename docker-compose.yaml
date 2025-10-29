@@ -52,6 +52,7 @@ services:
       bash -c "if [ ! -f /var/lib/kafka/data/meta.properties ]; then /opt/kafka/bin/kafka-storage.sh format --ignore-formatted --cluster-id 6VKsvE_XSzC1zMWfZod8sg --config /opt/kafka/config/kraft/server.properties; fi && /opt/kafka/bin/kafka-server-start.sh /opt/kafka/config/kraft/server.properties"
 
   broker5:
+    profiles: ["scale-up"]
     image: apache/kafka:3.7.0
     container_name: broker5
     hostname: broker5
@@ -64,6 +65,7 @@ services:
     command: >
       bash -c "if [ ! -f /var/lib/kafka/data/meta.properties ]; then /opt/kafka/bin/kafka-storage.sh format --ignore-formatted --cluster-id 6VKsvE_XSzC1zMWfZod8sg --config /opt/kafka/config/kraft/server.properties; fi && /opt/kafka/bin/kafka-server-start.sh /opt/kafka/config/kraft/server.properties"
   broker6:
+    profiles: ["scale-up"]
     image: apache/kafka:3.7.0
     container_name: broker6
     hostname: broker6
@@ -100,8 +102,6 @@ services:
       - broker2
       - broker3
       - broker4
-      - broker5
-      - broker6
 
 
 
