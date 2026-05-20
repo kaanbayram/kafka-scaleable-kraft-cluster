@@ -63,7 +63,7 @@ docker run --rm \
 
 NOTES: 
 
-kaan.bayram@MacBook-Pro KAFKA_CLUSTER % docker exec -it broker1 bash                                                                      
+MacBook-Pro KAFKA_CLUSTER % docker exec -it broker1 bash                                                                      
 
 broker1:/$ kafka-metadata-quorum.sh --bootstrap-server broker1:9092 describe --status
 bash: kafka-metadata-quorum.sh: command not found
